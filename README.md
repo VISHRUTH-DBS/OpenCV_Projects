@@ -69,4 +69,3 @@ pip install comtypes
 pip install pycaw==20220416
 ```
 
-Navigate to the volume control folder:
